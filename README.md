@@ -13,10 +13,15 @@
 
 * Has command history
 
+![1](https://user-images.githubusercontent.com/79721547/109417241-713bd280-79cb-11eb-8cd7-4e53a2b07f66.jpeg)
+
+![2](https://user-images.githubusercontent.com/79721547/109417262-844ea280-79cb-11eb-875f-a7e06f402f90.jpeg)
+
 ## Networking Part
 
 * The server is multithreaded and accepts multiple connections at the same time
 
+![3](https://user-images.githubusercontent.com/79721547/109417269-8c0e4700-79cb-11eb-9376-861d9ad59f61.jpeg)
 
 ## Compilation Instructions
 
